@@ -1,0 +1,4 @@
+﻿  program 0.cpp
+c:\users\natha\onedrive\documents\github\cis-310\program 0\program 0\program 0.cpp(57): error C2248: 'Convert::Convert': cannot access private member declared in class 'Convert'
+  c:\users\natha\onedrive\documents\github\cis-310\program 0\program 0\program 0.cpp(23): note: see declaration of 'Convert::Convert'
+  c:\users\natha\onedrive\documents\github\cis-310\program 0\program 0\program 0.cpp(15): note: see declaration of 'Convert'
