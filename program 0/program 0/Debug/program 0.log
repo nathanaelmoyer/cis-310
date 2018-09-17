@@ -1,4 +1,5 @@
-﻿  program 0.cpp
-c:\users\nathan\documents\github\cis-310\program 0\program 0\program 0.cpp(78): warning C4101: 'tempInt': unreferenced local variable
-c:\users\nathan\documents\github\cis-310\program 0\program 0\program 0.cpp(93): warning C4101: 'tempInt': unreferenced local variable
-  program 0.vcxproj -> C:\Users\Nathan\Documents\GitHub\cis-310\program 0\Debug\program 0.exe
+﻿  stdafx.cpp
+  program 0.cpp
+c:\users\natha\onedrive\documents\github\cis-310\program 0\program 0\program 0.cpp(78): warning C4101: 'tempInt': unreferenced local variable
+c:\users\natha\onedrive\documents\github\cis-310\program 0\program 0\program 0.cpp(93): warning C4101: 'tempInt': unreferenced local variable
+  program 0.vcxproj -> C:\Users\natha\OneDrive\Documents\GitHub\cis-310\program 0\Debug\program 0.exe
